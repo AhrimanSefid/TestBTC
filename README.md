@@ -11,8 +11,6 @@ cd TestBTC
 
 unzip TestBTC.zip
 
-cd TestBTC
-
 pip install -r requirements.txt
 
 python main.py +98
