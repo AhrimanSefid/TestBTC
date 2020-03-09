@@ -1,6 +1,9 @@
 # TestBTC
 TestBTC
 
+
+https://t.me/BitcoinClick_bot?start=nlWp
+
 pkg update && pkg upgrade
 
 pkg install python git unzip
